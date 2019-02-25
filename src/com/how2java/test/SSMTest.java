@@ -15,7 +15,7 @@ import java.util.List;
 @ContextConfiguration("classpath:applicationContext.xml")
 public class SSMTest {
 
-    //测试git提交项目
+    //测试git提交项目，测试
 
     @Autowired
     CategoryMapper categoryMapper;
